@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509910278 source:c:\users\dell\documents\github\calculator1\main.c
+	<stdio.h>
+	<stdlib.h>
+
